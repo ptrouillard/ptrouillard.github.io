@@ -61,12 +61,42 @@ In my case, the wood body is now full of trenches that I need to sand with paper
 Moreover, sanding a piece of wood by hand can produce unpredictible effects : curved surface, small glitches at many places in the wood.
 This not ideal !
 
-#### carving
+#### Carving
 Now that the surface is quite flatten, I need to draw the guitar itself and move to the carving.
 To make it happen, I found a draw of the Gibson SG JR on a website.
 I printed it and draw the outline on a MDF board.
 With my jigsaw, I cut the piece of MDF following the outline.
 Know, I have a routing template for the external shape of the guitar, great !
+
+#### Tooling
+At this point, I am stucked by my lack of tooling.
+I decide to buy a router on leboncoin website, for 50€ I found a bosch router.
+
+![Bosch router]()
+
+Know that I get the perfect tool to build a guitar, I need to learn how to use it !
+I find that the tool is not complete : some important parts are missing and no milling cutters are provided neither.
+I find these pieces on various websites.
+but in the meantime, I decide to work on the body carving with the help of the router.
+(which is not the best decision I made !)
+
+#### Back to carving with scroll saw (bad idea !!)
+I have some hope to get rid of the carving with a scroll saw.
+The thickness of the piece of wood is a problem : the saw is able to cut the wood despites the thickness but it is not so efficient.
+One more time, the tool is not suitable for this kind of work.
+The result is not very good : the cutting is not straight, I have to use a wood rasp to rectify the surface on the edges.
+
+One more bad experience like this, and I will give up, for sure !
+
+After a few weeks, I am back to work, I need to keep the faith, follow my dreams, and try another approach to get it done !
+
+#### Carving is not the end of the world
+After hours working with a wood rasp and sanding paper, the surface begins to be good, not perfect (we will follow *Kodawari* principles later....)
+
+
+
+
+
 
 
 

@@ -26,6 +26,9 @@ Building a solid body guitar means :
 To get started, I choose not to build the neck myself. I add not encough knowledge on this for the moment.
 I prefer to get some knowledge and experience on the body itself which is the main part, and the simpliest part to build with basics tooling.
 Next, I choosed to build a basic model of guitar : The gibson SG Junior. 
+
+![Gibson SG Junior](gibsonSGJR.jpg)
+
 Why ? 
 Because this model is quite simple to build, electronics are very basic due to the single mic. 
 

@@ -63,21 +63,21 @@ This not ideal !
 
 #### Carving
 Now that the surface is quite flatten, I need to draw the guitar itself and move to the carving.
-To make it happen, I found a draw of the Gibson SG JR on a website.
-I printed it and draw the outline on a MDF board.
+To make it happen, I find a draw of the Gibson SG JR on a website.
+I print it and draw the outline on a MDF board.
 With my jigsaw, I cut the piece of MDF following the outline.
 Know, I have a routing template for the external shape of the guitar, great !
 
 #### Tooling
 At this point, I am stucked by my lack of tooling.
-I decide to buy a router on leboncoin website, for 50€ I found a bosch router.
+I decide to buy a router on leboncoin website, for 50€ I find a bosch router.
 
 ![Bosch router](router.jpg)
 
 Know that I get the perfect tool to build a guitar, I need to learn how to use it !
 I find that the tool is not complete : some important parts are missing and no milling cutters are provided neither.
 I find these pieces on various websites.
-but in the meantime, I decide to work on the body carving with the help of the router.
+but in the meantime, I decide to work on the body carving without the help of the router.
 (which is not the best decision I made !)
 
 #### Back to carving with scroll saw (bad idea !!)

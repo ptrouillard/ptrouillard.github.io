@@ -72,7 +72,7 @@ Know, I have a routing template for the external shape of the guitar, great !
 At this point, I am stucked by my lack of tooling.
 I decide to buy a router on leboncoin website, for 50€ I found a bosch router.
 
-![Bosch router]()
+![Bosch router](router.jpg)
 
 Know that I get the perfect tool to build a guitar, I need to learn how to use it !
 I find that the tool is not complete : some important parts are missing and no milling cutters are provided neither.

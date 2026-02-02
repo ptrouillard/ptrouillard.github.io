@@ -28,7 +28,11 @@ I prefer to get some knowledge and experience on the body itself which is the ma
 Next, I choosed to build a basic model of guitar : The gibson SG Junior. 
 Why ? 
 Because this model is quite simple to build, electronics are very basic due to the single mic. 
+
 The only tricky part of the build of this model is the presence of a workaround bridge that requires to create an angle between the neck and the body.
+This problem is illustrated by the image below :
+
+![neck geometry](neck-geometery.png)
 
 #### Get the neck
 I bought a SG neck on leboncoin website. This is not an original neck from a gibson guitar.

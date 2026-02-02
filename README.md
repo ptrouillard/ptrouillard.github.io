@@ -42,16 +42,34 @@ I bought a SG neck on leboncoin website. This is not an original neck from a gib
 This neck is build in maple wood.
 
 #### Get the wood for the body
-I bought 2 pieces of rectified wood on lebonsoin website.
-The type of wood is poplar.
+I bought 2 pieces of rectified wood on leboncoin website.
+The type of wood is poplar, which is light and easy to work.
 The two pieces perfectly fits together which is a very good point.
 I put some wood glue on the two parts and put clamps to retain the pieces together during the sticking.
 After 24 hours, I removed the clamps.
 
-The tickness of a Gibson SG JR is about 35 mmm (1,3") and my piece of wood was previsouly created for a stratocaster guitar which body is about 42mm thick.
+#### Stick the parts together
+The tickness of a Gibson SG JR is about 35 mmm (1,3") and my piece of wood was previsouly intented to be used for a stratocaster guitar which body is about 42mm thick.
 So, I used an electric planner to reduce the thickness.
 
 The result was not perfect, and I not recommend this way of doing.
+
+This is tghe first learning : **do not use tools that you never used before !** 
+Practice beafore on a small piece of wood and check that the tool won't mess your previous work.
+
+In my case, the wood body is now full of trenches that I need to sand with paper, that was not exactly a task I like.
+Moreover, sanding a piece of wood by hand can produce unpredictible effects : curved surface, small glitches at many places in the wood.
+This not ideal !
+
+#### carving
+Now that the surface is quite flatten, I need to draw the guitar itself and move to the carving.
+To make it happen, I found a draw of the Gibson SG JR on a website.
+I printed it and draw the outline on a MDF board.
+With my jigsaw, I cut the piece of MDF following the outline.
+Know, I have a routing template for the external shape of the guitar, great !
+
+
+
 
 
 

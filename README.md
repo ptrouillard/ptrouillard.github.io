@@ -17,20 +17,20 @@ I will begin to write down basic steps & goals I want to achieve:
 ### What guitar ?
 I want to build a solid body guitar, which is an achievable goal in my mind.
 Building a solid body guitar means :
-1. Build a body with a swoft piece of wood 40 cm (15") tick (the body needs to be light)
+1. Build a body with a soft piece of wood 40 cm (15") tick (the body needs to be light)
 2. Build a neck with a hard piece of wood (maple wood)
 3. Add the fittings and electronics parts (mics)
-4. Paint the body and neck and polish
+4. Paint the body, the neck and polish
 
 #### How to start ?
-To get started, I choose not to build the neck myself. I add not encough knowledge on this for the moment.
+To get started, I choose not to build the neck myself. I add not encough knowledge on this for the moment. This is a very long and difficult process that I keep for the future.
 I prefer to get some knowledge and experience on the body itself which is the main part, and the simpliest part to build with basics tooling.
 Next, I choosed to build a basic model of guitar : The gibson SG Junior. 
 
 ![Gibson SG Junior](gibsonSGJR.jpg)
 
 Why ? 
-Because this model is quite simple to build, electronics are very basic due to the single mic. 
+Because this model is quite simple to build : electronics are very basic due to the single P90 mic. 
 
 The only tricky part of the build of this model is the presence of a workaround bridge that requires to create an angle between the neck and the body.
 This problem is illustrated by the image below :
